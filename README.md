@@ -114,12 +114,4 @@ All models suffer >74% relative drop from tIoU=0.1 to tIoU=0.5, confirming EatBe
 Annotations and code are released under [CC BY 4.0](LICENSE). Videos are sourced from Kinetics-400 under their original Creative Commons license.
 
 ## Citation
-
-```bibtex
-@article{eatbench2025,
-  title     = {EatBench-2.7K: A Benchmark for Fine-Grained Eating Action Grounding in Videos},
-  author    = {Anonymous},
-  journal   = {Advances in Neural Information Processing Systems},
-  year      = {2025},
-}
-```
+TBD.
